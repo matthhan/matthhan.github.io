@@ -47,7 +47,7 @@ Even if you team does not already have a "Daily Meeting", consider what happens
 as time goes on: People on the team forget that your "Daily Meeting" was
 introduced as part of something called Scrum and has a very clear definition
 and purpose. Over time it might happen that it becomes something else. After
-all: "Who are you to tell me what a 'Daily Meeting' is supposed to be like?
+all: "Who are you to tell me what a 'Daily Meeting' is supposed to be like?"
 
 By having a name like "Daily Scrum", all of these problems are avoided: Since
 the Scrum Guide invents the term, it can define its meaning clearly and
