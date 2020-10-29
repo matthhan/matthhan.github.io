@@ -17,7 +17,7 @@ reasoning may be as follows:
 
 Pretend for a moment that we didn't have those terms and the Scrum Guide was
 speaking about. Instead of "Daily Scrum", it was just "Daily Meeting" or some
-other, similarly inocuous term. For a team already practicing Scrum, nothing
+other, similarly innocuous term. For a team already practicing Scrum, nothing
 would change by calling it that.
 
 However consider a team that works in a completely different process, but also
